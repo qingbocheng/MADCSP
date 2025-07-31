@@ -1,0 +1,8 @@
+AXP
+GS
+JPM
+JNJ
+MRK
+PYPL
+TRV
+UNH
